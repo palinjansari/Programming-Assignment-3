@@ -29,4 +29,9 @@ Note: This project does not implement adequate handling of errors.
 3) When you edit the parameter
 4) private instructor tutor;
 6) Once it tells you do something
-8) 
+8) No it didn't because it's over the limit  
+10) Error: non-static method getValue() cannot be referenced from a static context
+11) Error: '.class' expected
+13) It would be the maximum number
+15) (34 != 33) && ! false and  ! false
+16) 
