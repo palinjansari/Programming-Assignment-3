@@ -38,4 +38,8 @@ Note: This project does not implement adequate handling of errors.
 17) a || b
 18) No it's not
 19) No there isn't
-20) No really
+20) Not really because "cat" isn't an identified variable in the code
+21) Because it's in the constructor
+23) You would need to click 60 times
+24) NumberDisplay digit = new NumberDisplay(10)
+25) 
