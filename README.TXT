@@ -34,4 +34,8 @@ Note: This project does not implement adequate handling of errors.
 11) Error: '.class' expected
 13) It would be the maximum number
 15) (34 != 33) && ! false and  ! false
-16) 
+16) a && b
+17) a || b
+18) No it's not
+19) No there isn't
+20) No really
