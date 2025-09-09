@@ -26,3 +26,7 @@ Note: This project does not implement adequate handling of errors.
 
 1) Diagrams are in the object folders
 2) When you add or remove a class from the program
+3) When you edit the parameter
+4) private instructor tutor;
+6) Once it tells you do something
+8) 
