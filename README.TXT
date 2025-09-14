@@ -42,4 +42,13 @@ Note: This project does not implement adequate handling of errors.
 21) Because it's in the constructor
 23) You would need to click 60 times
 24) NumberDisplay digit = new NumberDisplay(10)
-25) 
+25) String window
+26) It holds value from zero to a given limit
+27) They both are meant to display numbers. Because it has a return value
+28) system.print(p1, true)
+    system.getStatus(20)
+29) Shapes
+31) Yes
+32) 2 is the remainder
+33) It's 2 (int)
+37) The 24 hour one is easier and better because it's easier to tell if it's am or pm
